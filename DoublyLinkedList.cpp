@@ -1,3 +1,26 @@
+/**
+ * DoubleLinkedList.cpp
+ * 
+ * Copyright (c) 2025 Solibooster (孤独书生212). All rights initially reserved.
+ * 开源协议：MIT License
+ * 
+ * 创建日期: 2025-08-17
+ * 作者: SoliBooster (孤独书生212)
+ * 联系方式: 18199608@qq.com
+ * 
+ * 功能特性:
+ *   - 完整的双链表链表增删改查实现
+ *   - 包含边界条件处理和内存管理
+ *   - 适合教学/学习使用
+ * 
+ * 使用条款:
+ *   1. 允许自由修改和分发
+ *   2. 需保留本版权声明
+ *   3. 禁止直接商业牟利使用
+ * 
+ * GitHub: https://github.com/SoliBooster
+ */
+
 #include <iostream>
 #include <stdexcept>
 using namespace std;
